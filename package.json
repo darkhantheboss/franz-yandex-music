@@ -1,0 +1,13 @@
+{
+  "id": "YandexMusic",
+  "name": "Yandex music",
+  "version": "1.0.0",
+  "description": "Yandex music",
+  "main": "index.js",
+  "author": "altescy",
+  "license": "MIT",
+  "repository": "https://github.com/darkhantheboss/franz-yandex-music",
+  "config": {
+    "serviceURL": "https://music.yandex.ru"
+  }
+}
